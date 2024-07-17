@@ -13,7 +13,7 @@ def extract_parameter_names(file_path):
     return parameter_names
 
 # Specify the directory containing the files
-directory_path = os.path.join(os.getcwd(), "read_erg_files\\erg_files")
+directory_path = os.path.join(os.getcwd(), "erg_files")
 print(f"Reading files from : {directory_path}")
 
 # Iterate through all files in the directory
