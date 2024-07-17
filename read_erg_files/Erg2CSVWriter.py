@@ -14,7 +14,7 @@ def extract_parameter_names(file_path):
 
 # Specify the directory containing the files
 directory_path = os.path.join(os.getcwd(), "read_erg_files\\erg_files")
-print(directory_path)
+print(f"Reading files from : {directory_path}")
 
 # Iterate through all files in the directory
 for filename in os.listdir(directory_path):
