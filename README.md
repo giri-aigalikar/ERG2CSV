@@ -1,9 +1,8 @@
-Requirements
+-----------------------------------------------------Requirements-------------------------------------------------------
 python 3.8.x
-
 (does not work with other python versions)
 
-How to Use
+----------------------------------------------------How to Use-----------------------------------------------------------
 
 1. create new folder "erg_files"
 2. Place all erg files in the folder
